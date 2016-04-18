@@ -122,7 +122,7 @@ Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播
 透過此平台可以簡單的發送推播訊息與建立Restful API
 
 <br>
-### [ZenFone Zoom](www.asus.com/Phone/ZenFone-Zoom-ZX551ML/)
+### [ZenFone Zoom](http://www.asus.com/Phone/ZenFone-Zoom-ZX551ML/)
 ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，
 實作滾動視差，物件淡入淡出等特效，是第一個從設計到實作都由華碩人參與的產品頁
 
@@ -130,7 +130,7 @@ ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，
 主要負責實作Page Features, Design 還有Sound頁面
 
 <br>
-### [ZenFone Max](www.asus.com/Phone/ZenFone-Max-ZC550KL/)
+### [ZenFone Max](http://www.asus.com/Phone/ZenFone-Max-ZC550KL/)
 ZenFone Max是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽
 
 此專案中，由我控管專案進度，調整動畫效能，與圖片縮圖等
