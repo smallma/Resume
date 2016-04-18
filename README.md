@@ -50,7 +50,7 @@ __統計室組員/役男管理幹部__ *Sep. 2014 - Jun 2015*
 
 ## 參與專案
 
-### [Tilera](https://en.wikipedia.org/wiki/TILE64)
+### [Tilera](https://en.wikipedia.org/wiki/TILE64) <sub>*@Quanta 2011~2012*</sub>
 Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能力，能同時跑數十個VM
 
 - ####Kernel Optimization
@@ -66,7 +66,7 @@ Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能
     並能動態配置Memcached與調整fallback機制
 
 <br>
-### [Quanta Cloud Technology](http://www.qct.io/)
+### [Quanta Cloud Technology](http://www.qct.io/) <sub>*@Quanta 2012~2013*</sub>
 
 - ####OpenStack Glance
 
@@ -85,7 +85,7 @@ Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能
     包括支援iscsi與ZFS等
 
 <br>
-### [Phollow](http://www.phollowapp.com/)
+### [Phollow](http://www.phollowapp.com/) <sub>*@Quanta 2013~2014*</sub>
 
 Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
 
@@ -94,7 +94,7 @@ Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
 此專案中幫忙新增與修改功能
 
 <br>
-### [QOCA](http://www.qoca.net/)
+### [QOCA](http://www.qoca.net/) <sub>*@Quanta 2014~2015*</sub>
 
 - ####QOCA Messenger
 
@@ -114,7 +114,7 @@ Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
     此專案中，由我透過[highcharts](http://www.highcharts.com/)實現圖表介面，並開發前後段串接介面
 
 <br>
-### [Jaybo](http://jay.bo/get/)
+### [Jaybo](http://jay.bo/get/) <sub>*@Quanta 2015*</sub>
 Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播資訊，
 例如目前開票結果，球賽比數或者藝文相關資訊
 
@@ -122,7 +122,7 @@ Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播
 透過此平台可以簡單的發送推播訊息與建立Restful API
 
 <br>
-### [ZenFone Zoom](http://www.asus.com/Phone/ZenFone-Zoom-ZX551ML/)
+### [ZenFone Zoom](http://www.asus.com/Phone/ZenFone-Zoom-ZX551ML/) <sub>*@Asus 2015~2016*</sub>
 ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，
 實作滾動視差，物件淡入淡出等特效，是第一個從設計到實作都由華碩人參與的產品頁
 
@@ -130,20 +130,20 @@ ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，
 主要負責實作Page Features, Design 還有Sound頁面
 
 <br>
-### [ZenFone Max](http://www.asus.com/Phone/ZenFone-Max-ZC550KL/)
+### [ZenFone Max](http://www.asus.com/Phone/ZenFone-Max-ZC550KL/) <sub>*@Asus 2015~2016*</sub>
 ZenFone Max是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽
 
 此專案中，由我控管專案進度，調整動畫效能，與圖片縮圖等
 主要負責實作Page Features與Pixelmaster頁面
 
 <br>
-### [ZenFone Go](http://www.asus.com/Phone/ZenFone-Go-ZB551KL/)
+### [ZenFone Go](http://www.asus.com/Phone/ZenFone-Go-ZB551KL/) <sub>*@Asus 2016*</sub>
 ZenFone Go採用動態載入圖片的技術，提升頁面載入速度，且偵測設備解析度採用1x/2x圖片
 
 此專案中，由我一人實作頁面，加入圖片Lazy loading，1x/2x圖片動態切換，整體HTML與JS的架構也較Zoom更為改善，更便於在多國語系中共用Global的程式碼
 
 <br>
-### [ZenFone Go TV](http://www.asus.com/Phone/ZenFone-Go-TV-ZB551KL/)
+### [ZenFone Go TV](http://www.asus.com/Phone/ZenFone-Go-TV-ZB551KL/) <sub>*@Asus 2016*</sub>
 ZenFone Go TV與Go採用一樣的技術與HTML架構，但JS的架構中將頁面的JS拆開，拆成3個小模組resize, animation與common，未來使用上程式碼可以更為簡潔
 
 此專案中，由我一人實作頁面與調整JS架構
