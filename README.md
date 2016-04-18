@@ -1,7 +1,7 @@
 #林靜賢 (Jing Sian Lin, smallma)
 ## 進階前端開發＆後端開發者
 
-> 聯絡方式：[rainlin009@gmail.com](rainlin009@gmail.com)
+> 聯絡方式：[rainlin009@gmail.com](mailto:rainlin009@gmail.com)
 > Twitter: [Rain_Lin](https://twitter.com/rain_lin)
 
 
