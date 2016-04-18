@@ -1,10 +1,9 @@
 #林靜賢 (Jing Sian Lin, smallma)
-## 進階前端開發與後端開發者
+## 進階前端開發＆後端開發者
 
-> [rainlin009@gmail.com](rainlin009@gmail.com)
-> Twitter: [rain_lin](https://twitter.com/rain_lin)
+> 聯絡方式：[rainlin009@gmail.com](rainlin009@gmail.com)
+> Twitter: [Rain_Lin](https://twitter.com/rain_lin)
 
------
 
 ## 工作技能
 
@@ -18,7 +17,7 @@
 * SCSS/SASS
 * Git
 
------
+<br>
 
 ## 工作經驗
 
@@ -45,9 +44,7 @@ __統計室組員/役男管理幹部__ *Sep. 2014 - Jun 2015*
 * 管理役男生活起居，與協助處理推廣教育訓練
 * 協助統計室處理稅,健,罰,費案件遲繳金額審核與校對
 
-
------
-
+<br>
 
 ## 參與專案
 
@@ -66,7 +63,7 @@ Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能
     提供GWT前端一串接介面，能及時獲取Memcached資訊，
     並能動態配置Memcached與調整fallback機制
 
-
+<br>
 ### [Quanta Cloud Technology](http://www.qct.io/)
 
 - ####OpenStack Glance
@@ -85,6 +82,7 @@ Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能
     這部分透過Python開發自動配置script，依伺服器設定檔將硬碟配置不同架構，
     包括支援iscsi與ZFS等
 
+<br>
 ### [Phollow](http://www.phollowapp.com/)
 
 Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
@@ -92,7 +90,7 @@ Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
 主要參與Phollow後期開發，並學習Backbone與JavaScript技術
 
 此專案中幫忙新增與修改功能
-
+<br>
 ### [QOCA](http://www.qoca.net/)
 
 - ####QOCA Messenger
@@ -112,16 +110,17 @@ Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
 
     此專案中，由我透過[highcharts](http://www.highcharts.com/)實現圖表介面，並開發前後段串接介面
 
+<br>
 ### [Jaybo](http://jay.bo/get/)
 Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播資訊，例如目前開票結果，球賽比數或者藝文相關資訊
 
 此專案中，我透過[Parse.com](http://parse.com/)開發Restful API，
 提供給iOS與Android，透過此平台可以簡單的發送推播訊息與建立Restful API
-
+<br>
 ### [ZenFone Zoom](www.asus.com/Phone/ZenFone-Zoom-ZX551ML/)
-
+<br>
 ### [ZenFone Max](www.asus.com/Phone/ZenFone-Max-ZC550KL/)
-
+<br>
 ### [ZenFone Go](http://www.asus.com/Phone/ZenFone-Go-ZB551KL/)
-
+<br>
 ### [ZenFone Go TV](http://www.asus.com/Phone/ZenFone-Go-TV-ZB551KL/)
