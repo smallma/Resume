@@ -113,17 +113,18 @@ Phollow是以Backbone.js實現的Hybrid App,  提供iOS與Andriod下載
 
 <br>
 ### [Jaybo](http://jay.bo/get/)
-Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播資訊，例如目前開票結果，球賽比數或者藝文相關資訊
+Jaybo是一個即時推播平台，使用者可以即時獲得想知道的推播資訊，
+例如目前開票結果，球賽比數或者藝文相關資訊
 
 此專案中，我透過[Parse.com](http://parse.com/)開發Restful API，提供給iOS與Android，
 透過此平台可以簡單的發送推播訊息與建立Restful API
 
 <br>
 ### [ZenFone Zoom](www.asus.com/Phone/ZenFone-Zoom-ZX551ML/)
-ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，有實作滾動視差特效，
-是第一個從設計到實作都由華碩人參與的產品頁
+ZenFone Zoom是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽，
+實作滾動視差，物件淡入淡出等特效，是第一個從設計到實作都由華碩人參與的產品頁
 
-此專案中，由我控管專案進度，規劃程式架構與動畫實作，包含滾動視差，動態播放影片等特效
+此專案中，由我控管專案進度，規劃程式架構與動畫實作(滾動視差，動態播放影片)
 主要負責實作Page Features, Design 還有Sound頁面
 
 <br>
@@ -135,7 +136,7 @@ ZenFone Max是由HTML + SASS + JQuery實作的RWD頁面，支援IE8瀏覽
 
 <br>
 ### [ZenFone Go](http://www.asus.com/Phone/ZenFone-Go-ZB551KL/)
-ZenFone Go採用動態載入圖片的技術，提升一開始載入頁面的速度，並且偵測設備解析度動態採用1x/2x圖片
+ZenFone Go採用動態載入圖片的技術，提升頁面載入速度，且偵測設備解析度採用1x/2x圖片
 
 此專案中，由我一人實作頁面，加入圖片Lazy loading，1x/2x圖片動態切換，整體HTML與JS的架構也較Zoom更為改善，更便於在多國語系中共用Global的程式碼
 
