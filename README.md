@@ -55,16 +55,20 @@ __統計室組員/役男管理幹部__ *Sep. 2014 - Jun 2015*
 Tilera是ㄧ個擁有64核心的刀鋒伺服器，提供強大的運算處理能力，能同時跑數十個VM
 
 - ####Kernel Optimization
+
     針對伺服器上所有服務調整一適當的Linux kernel，
     讓伺服器的硬體與VM間的資源配置能更為平均且適當，
     讓Tilera效能發揮至極致
+
 - ####Memcached
+
     透過PHP開發後端即時監控程式，
     提供GWT前端一串接介面，能及時獲取Memcached資訊，
     並能動態配置Memcached與調整fallback機制
 
 
 ### [Quanta Cloud Technology](http://www.qct.io/)
+
 - ####OpenStack Glance
 
     Glance是一映像管理工具，在OpenStack中負責記錄iso的metadata，
