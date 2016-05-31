@@ -13,13 +13,12 @@
 ## 工作技能
 
 * JQuery/ES6
+* SCSS/SASS
 * Python
-* PHP
 * NodeJS
 * Sencha Touch
-* React
+* ReactJS
 * Grunt (BrowserSync, Browserify, Babel)
-* SCSS/SASS
 * Git
 
 <br>
@@ -150,3 +149,25 @@ ZenFone Go採用動態載入圖片的技術，提升頁面載入速度，且偵�
 ZenFone Go TV與Go採用一樣的技術與HTML架構，但JS的架構中將頁面的JS拆開，拆成3個小模組resize, animation與common，未來使用上程式碼可以更為簡潔
 
 此專案中，由我一人實作頁面與調整JS架構
+
+<br>
+### [ZenFone 3 Ultra](http://www.asus.com/Phone/ZenFone-3-Ultra-ZU680KL/) <sub>*@Asus 2016*</sub>
+ZenFone 3 Ultra透過waypoint.js實作全頁圖片lazy loading, 並且實作RWD動畫效果，在不同解析度的裝置會執行不同的網頁特效，但因動畫需使用大量PNG，讓網頁大小暴增．目前是只啟動桌機版動畫
+
+
+此專案中，由我一人實作頁面與網頁特效
+
+<br>
+### [ZenFone 3 Deluxe](http://www.asus.com/Phone/ZenFone-3-Deluxe-ZS570KL/) <sub>*@Asus 2016*</sub>
+ZenFone 3 Deluxe同Ultra的圖片Lazy Loading架構，但只有實作桌機版網頁特效
+
+
+此專案中，由我完成部分頁面排版與主要網頁Parallax Scrolling特效
+
+
+<br>
+### [Transformer 3](www.asus.com/2-in-1-PCs/T305CA/) <sub>*@Asus 2016*</sub>
+Transformer 3 亦同Ultra的圖片Lazy Loading架構，也只有實作桌機版網頁特效，此專案有考慮到Firefox沒實作transition background-image，是透過Opacity漸變的方式處理圖片切換
+
+
+此專案中，由我一人實作頁面與按鈕切換圖片效果
